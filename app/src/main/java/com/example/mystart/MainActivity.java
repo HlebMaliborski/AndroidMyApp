@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     // Метод обработки нажатия на кнопку
-    public void GoToDisToo(View view) {
+    public void GoToDisToo(View view) {dsad
         // действия, совершаемые после нажатия на кнопку
         // Создаем объект Intent для вызова новой Activity
         Intent intent = new Intent(this, DisplayTooActivity.class);
